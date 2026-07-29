@@ -102,7 +102,7 @@ Budget-vs-Actual-Expense-Dashboard/
 
 ### KPI Summary
 
-![KPI Summary](screenshots/kpi-summary.png)
+![KPI Summary](screenshots/KPIs.png)
 
 ### Charts
 
